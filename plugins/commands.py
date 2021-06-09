@@ -14,7 +14,7 @@ async def start(client, message):
         InlineKeyboardButton('📜 Support Group', url='https://t.me/Movie_loverz_group'),
         InlineKeyboardButton('Update Channel ♻️', url='https://t.me/close_chapters')
     ],[
-        InlineKeyboardButton('SouceCode 💡', url='https://t.me/joinchat/eZk8OSmHwR5jYTJl')
+        InlineKeyboardButton('SouceCode 🙃', url='https://t.me/joinchat/eZk8OSmHwR5jYTJl')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
     await client.send_message(
